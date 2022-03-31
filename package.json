@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for Natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arade1994/natours.git"
+  },
+  "author": "Ante Rade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arade1994/natours/issues"
+  },
+  "homepage": "https://github.com/arade1994/natours#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
