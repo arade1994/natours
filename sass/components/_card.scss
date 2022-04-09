@@ -23,7 +23,7 @@
 
     &--back {
       background-color: $color-primary;
-      transform: rotateY(180deg);
+      transform: rotateY(-180deg);
 
       &-1 {
         background-image: linear-gradient(
@@ -36,7 +36,7 @@
   }
 
   &:hover &__side--front {
-    transform: rotateY(180deg);
+    transform: rotateY(-180deg);
   }
 
   &:hover &__side--back {
