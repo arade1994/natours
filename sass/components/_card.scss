@@ -158,11 +158,8 @@
 
   &__cta {
     width: 90%;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
     text-align: center;
+    @include center;
   }
 
   &__price-box {
